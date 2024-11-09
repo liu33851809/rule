@@ -2,6 +2,9 @@
 
 # 域名后缀匹配
 #DOMAIN-SUFFIX,qichiyu.com
+DOMAIN-SUFFIX,cloud.cupronickel.goog
+DOMAIN-SUFFIX,googleapis.com
+DOMAIN-SUFFIX,assouth.p.g-tun.com
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,1e100
